@@ -97,15 +97,13 @@ Raphael Boakye-Yiadom
 Mechanical Engineering + AI/ML Engineer
 MIT License included.
 
-## 📸 Dashboard Screenshots
-![Dashboard View 1](Screenshot 2025-12-04 214619.png)
+![Dashboard View 1](./Screenshot 2025-12-04 214619.png)
+![Dashboard View 2](./Screenshot 2025-12-04 214758.png)
+![Dashboard View 3](./Screenshot 2025-12-04 215011.png)
+![Dashboard View 4](./Screenshot 2025-12-04 215043.png)
+![Dashboard View 5](./Screenshot 2025-12-04 215220.png)
+![Dashboard View 6](./pump prediction pic 1.png)
 
-![Dashboard View 2](Screenshot 2025-12-04 214758.png)
 
-![Dashboard View 3](Screenshot 2025-12-04 215011.png)
 
-![Dashboard View 4](Screenshot 2025-12-04 215043.png)
 
-![Dashboard View 5](Screenshot 2025-12-04 215220.png)
-
-![Dashboard View 6](pump prediction pic 1.png)
