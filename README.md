@@ -98,18 +98,20 @@ Mechanical Engineering + AI/ML Engineer
 MIT License included.
 
 ## 📸 Dashboard Screenshots
+![Dashboard View 1](./Screenshot_2025-12-04_214619.png)
 
-![Dashboard View 1](./Screenshot_214619.png)
+![Dashboard View 2](./Screenshot_2025-12-04_214758.png)
 
-![Dashboard View 2](./Screenshot_214758.png)
+![Dashboard View 3](./Screenshot_2025-12-04_215011.png)
 
-![Dashboard View 3](./Screenshot_215011.png)
+![Dashboard View 4](./Screenshot_2025-12-04_215043.png)
 
-![Dashboard View 4](./Screenshot_215043.png)
-
-![Dashboard View 5](./Screenshot_215220.png)
+![Dashboard View 5](./Screenshot_2025-12-04_215220.png)
 
 ![Dashboard View 6](./pump_prediction_pic_1.png)
+
+
+
 
 
 
