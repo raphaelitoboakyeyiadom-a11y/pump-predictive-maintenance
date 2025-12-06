@@ -99,17 +99,17 @@ MIT License included.
 
 ## 📸 Dashboard Screenshots
 
-![Dashboard View 1](./Screenshot_2025-12-04_214619.png)
+![Dashboard View 1](./dashboard_view_1.png)
 
-![Dashboard View 2](./Screenshot_2025-12-04_214758.png)
+![Dashboard View 2](./dashboard_view_2.png)
 
-![Dashboard View 3](./Screenshot_2025-12-04_215011.png)
+![Dashboard View 3](./dashboard_view_3.png)
 
-![Dashboard View 4](./Screenshot_2025-12-04_215043.png)
+![Dashboard View 4](./dashboard_view_4.png)
 
-![Dashboard View 5](./Screenshot_2025-12-04_215220.png)
+![Dashboard View 5](./dashboard_view_5.png)
 
-![Dashboard View 6](./pump_prediction_pic_1.png)
+![Dashboard View 6](./dashboard_view_6.png)
 
 
 
